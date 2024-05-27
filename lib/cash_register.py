@@ -27,8 +27,3 @@ class CashRegister:
         if self.total < 0:
             self.total = 0
 
-# Testing Code
-if __name__ == "__main__":
-    import unittest
-
-    unittest.main()
